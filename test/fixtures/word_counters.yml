@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  word: MyString
+  meaning: MyText
+  count: 1
+  fix_type: 1
+
+two:
+  word: MyString
+  meaning: MyText
+  count: 1
+  fix_type: 1

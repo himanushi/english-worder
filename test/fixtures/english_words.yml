@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  word: MyString
+  meaning: MyText
+  part_of_speech: 1
+  length: 1
+
+two:
+  word: MyString
+  meaning: MyText
+  part_of_speech: 1
+  length: 1
